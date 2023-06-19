@@ -10,3 +10,5 @@ The primary target audience of the report is human resources directors who want 
   - How employee satisfaction and involvement levels affect turnover rates (involvement levels refer to the extent to which employees have a say in decisions affecting their work, having more control over their job and workplace through involvement in decision-making)
   - Which demographic characteristics such as gender and age are associated with higher voluntary turnover
   - How work conditions such as overtime, work-life balance, commute distance, current managers, etc., affect employee burnout.
+
+Link to the full report here: https://lookerstudio.google.com/reporting/f3282361-9e75-4bc6-b7cd-3fabcfb543e5
